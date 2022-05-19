@@ -3,7 +3,7 @@
 ## Introduction
 When learning Mandarin Chinese, I often encounter words I want to save for later. My favourite tool to list them is [Quizlet](https://quizlet.com/latest), it's easy to use on both computer and mobile.
 
-One of the websites I use to find vocab & practice material is [Mandarin Corner](mandarincorner.org).
+One of the websites I use to find vocab & practice material is [Mandarin Corner](https://mandarincorner.org).
 They have varied learning materials in native Chinese for a fair price. Here I found a long list, which made me wonder how many of these words already existed in my Quizlet.
 I could read through all, but that's a bit boring, because many I already know.
 
