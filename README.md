@@ -7,6 +7,8 @@ One of the websites I use to find vocab & practice material is [Mandarin Corner]
 They have varied learning materials in native Chinese for a fair price. Here I found a long list, which made me wonder how many of these words already existed in my Quizlet.
 I could read through all, but that's a bit boring, because many I already know.
 
+Indonesian README [here](https://github.com/lagendijkict/Comparing-Chinese-word-lists/blob/main/README-IN.md)
+
 ## Project Goals
 * Read content of (old) source Excel file
 * Read content of (new) source csv file
